@@ -142,7 +142,7 @@ nav a:hover{
 /* Step 5: Write selector/rule property to add the background image to the 
 first div in the grid  and place it in the grid. */
 .container >:first-child {
-  grid-column: 1 / spans 3;
+  grid-column: 1 / spans 5;
   background-image: url("/images/header.jpg");
   background-repeat: no-repeat;
   background-size:cover;
