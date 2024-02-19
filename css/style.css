@@ -146,7 +146,6 @@ first div in the grid  and place it in the grid. */
   background-image: url("/images/header.jpg");
   background-repeat: no-repeat;
   background-size:cover;
-  transform: translateZ(0);
 }
 
 
